@@ -1,4 +1,12 @@
 # portfolio
 Portfolio repository
-Hallo Welt
 
+# Data Scientist, C++ Programmer
+
+### Education
+Physics, PhD
+
+### Work Experience
+...
+### Education
+...
