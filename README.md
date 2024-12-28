@@ -1,6 +1,3 @@
-# portfolio
-Portfolio repository
-
 # Data Scientist, C++ Programmer
 
 ### Education
